@@ -5,7 +5,8 @@ This repository contains 150 efficient and beginner-friendly Java solutions to a
 
 ✨ Features:
 
-Topic-Wise Categorization: Problems are grouped into four major topics – Numbers, Patterns, Strings, and Arrays – covering the most commonly asked concepts in beginner-level coding rounds and Java practice sessions.
+Topic-Wise Categorization: Problems are grouped into four major topics:
+Numbers, Patterns, Strings, and Arrays – covering the most commonly asked concepts in beginner-level coding rounds and Java practice sessions.
 Beginner-Friendly Code: Every Java program is written in a clean, structured format with step-by-step logic and comments, making it easy to follow and modify.
 Pure Java Implementation: All problems are solved using core Java, without any external libraries, focusing entirely on building logic with the language's built-in features.
 Hands-On Practice: These problems simulate real-time coding tasks, providing a strong foundation for competitive programming, exams, and placement preparation.
