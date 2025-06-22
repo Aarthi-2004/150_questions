@@ -1,6 +1,7 @@
+//Frequency count with descending order printing
+//int a[] = { 50, 20, 150, 20, 50, 10, 30, 10, 10 };
 import java.util.*;
-
-public class FrequencyDescending {
+ class FrequencyDescending {
     public static void main(String[] args) {
         int[] a = {50, 20, 150, 20, 50, 10, 30, 10, 10};
 
