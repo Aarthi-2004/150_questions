@@ -6,7 +6,7 @@
 //50->1
 //30->1
 import java.util.*;
- FrequencyByDescendingCount {
+ class FrequencyByDescendingCount {
     public static void main(String[] args) {
         int[] arr = {40, 20, 10, 50, 20, 10, 30, 40};
 
