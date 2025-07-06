@@ -4,13 +4,11 @@
 // Input: arr[] = [1, 0, 2, 3, 0, 4, 5, 0], K = 0
 // Output: [1, 0, 0, 2, 3, 0, 0, 4]
 import java.util.*;
-
 public class DuplicateKInserter {
     public static void duplicateK(int[] arr, int k) {
         int n = arr.length;
         int countK = 0;
-
-        for (int i = 0; i + countK < n; i++) {
+     for (int i = 0; i + countK < n; i++) {
             if (arr[i] == k) {
                 if (i + countK == n - 1) {
                     arr[n - 1] = k;
